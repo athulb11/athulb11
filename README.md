@@ -5,12 +5,14 @@
 <h3 align="center">An Aspiring Data Scientist from India.</h3>
 
 <br/>
-
 <div align="center">
- 
+    
+ 👨🏻‍💻 Passionate Data Science Enthusiast with a solid academic background and hands-on experience in Python programming and data analytics.
 
+ 💡 I focus on leveraging data-driven insights to drive impactful decisions and create innovative solutions.
 
  </div>
+
  
 <div align="center"> 
   <a href="athuljr11@gmail.com">
@@ -20,6 +22,29 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas" width="50" height="50"/>
+    <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" alt="Plotly" width="50" height="50"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=sql" />
+    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="50" height="50"/>
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/>
+    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git" />
+</div>
+
+
+
+
+<br/>
+<hr/>
 
 
 <!--
