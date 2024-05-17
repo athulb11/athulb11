@@ -40,11 +40,22 @@
     <img src="https://skillicons.dev/icons?i=vscode,github,git" />
 </div>
 
-
-
-
 <br/>
 <hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athulb11" alt="athulb11" />
+</p>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
 
 
 <!--
